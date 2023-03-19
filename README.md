@@ -1,7 +1,7 @@
 # Helio Salon
 This is a mockup of an earlier project I worked on designing a salon website. 
 
-**Link to project:** https://heliosalon.netlify.app/
+<!--**Link to project:** https://heliosalon.netlify.app/-->
 
 ![picture of site](images/pic02.png)
 
